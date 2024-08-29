@@ -2,6 +2,8 @@
 This is a very basic ReactJS dummy project, of a simple Product Catalog and Shopping Cart webapp.
 Disclaimer: Code can be improved, and some minor bugs may occur. This is just a dummy+demo project
 
+>> "Production" environment URL: https://reactjs-ecommerce-cart.netlify.app/
+
 External libraries used:
 1) ReactJS base libs: https://react.dev/reference/react
 2) Bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
@@ -10,4 +12,3 @@ External libraries used:
 5) Material Icons: https://mui.com/material-ui/icons/
 6) Fake REST API: https://fakestoreapi.com/products
 
-"Production" environment URL: https://reactjs-ecommerce-cart.netlify.app/
