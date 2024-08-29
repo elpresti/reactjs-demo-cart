@@ -2,7 +2,7 @@
 This is a very basic ReactJS dummy project, of a simple Product Catalog and Shopping Cart webapp.
 Disclaimer: Code can be improved, and some minor bugs may occur. This is just a dummy+demo project
 
->> "Production" environment URL: https://reactjs-ecommerce-cart.netlify.app/
+- "Production" environment URL: https://reactjs-ecommerce-cart.netlify.app/
 
 External libraries used:
 1) ReactJS base libs: https://react.dev/reference/react
