@@ -9,3 +9,5 @@ External libraries used:
 4) Material UI: https://mui.com/material-ui/getting-started/
 5) Material Icons: https://mui.com/material-ui/icons/
 6) Fake REST API: https://fakestoreapi.com/products
+
+"Production" environment URL: https://reactjs-ecommerce-cart.netlify.app/
